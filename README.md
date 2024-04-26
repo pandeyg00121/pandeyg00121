@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Passionate learner with expertise in MERN stack and agile development methodologies, seeking to leverage strong problem-solving abilities and technical knowledge to contribute to innovative projects.
+🔭 A Full-Stack Food Ordering/Delivery Web App called "Feed ME Now" built using the MERN stack. This project enables secure access for customers, restaurants, and admins, allowing customers to order food from multiple restaurants, track deliveries, and review restaurants.<br>
+👯 Hackathons or coding competitions where I can collaborate with other developers and work on innovative solutions.<br>
+🤝 Learning advanced web development techniques, such as server-side rendering, performance optimization, and scalability best practices<br>
+🌱 Backend development with Node.js and Express.js, focusing on building efficient and secure APIs.<br>
+💬 Web development using technologies like HTML, CSS, JavaScript, React.js, Node.js, and Express.js.<br>
+⚡ I'm an avid rock climber and have participated in several climbing competitions.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pandeyg00121&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
